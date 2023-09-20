@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Qingyuan Ma"
+  avatar           : "https://user-images.githubusercontent.com/116294184/269138412-cae3562a-1e51-42c0-a748-33a0ea010267.jpg"
+  bio              : "Shanghai University,School of Computer Engineering and Science; research assistant in M Lab"
+  location         : "Shangda Road 99, Shanghai"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "qingyuanma.work@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/Ovsia"
   google_plus      :
   keybase          :
   instagram        :
